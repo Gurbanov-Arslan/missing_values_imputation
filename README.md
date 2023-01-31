@@ -1,2 +1,2 @@
 # missing_values_imputation
-The project focuses on handling missing values in a dataset using various imputation techniques in Python.
+The project focuses on handling missing values in a dataset using various imputation techniques in Python. The initial step involves using the pandas profiling to get an overview of the dataset. After that, different imputation techniques were applied to each column, based on the type of data and pattern of missing values. The project explains the rationale behind choosing each technique used for imputing the missing values.
